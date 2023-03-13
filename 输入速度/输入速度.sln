@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "输入速度", "输入速度\输入速度.csproj", "{00A65BFC-F32F-40EA-8342-420771FA0BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A65BFC-F32F-40EA-8342-420771FA0BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A65BFC-F32F-40EA-8342-420771FA0BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A65BFC-F32F-40EA-8342-420771FA0BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A65BFC-F32F-40EA-8342-420771FA0BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981D04CB-7ACA-4793-96AB-33273B996E3C}
+	EndGlobalSection
+EndGlobal
